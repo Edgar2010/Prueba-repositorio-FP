@@ -1,0 +1,27 @@
+Tema 2 Resolución de problemas 
+Objetivo: El alumno resolverá problemas mediante la especificación algorítmica.
+2.1 Definición, planteamiento y modelado del problema.
+       2.1.1 Formular el problema. 
+       2.1.2 Analizar el problema. 
+      2.1.3 Diseñar una estrategia de búsqueda de la solución
+2.2 Algoritmos para la resolución del problema. 
+      2.2.1 Definición y representación de algoritmos.
+      2.2.2 Conversión del planteamiento del problema al algoritmo.
+
+ALGORITMO
+Definición de Algoritmo
+Un  algoritmo se denomina como un conjunto ordenado y finito de operaciones simples a través del cual podemos hallar la solución a un problema. Los algoritmos nos permiten ejecutar una acción o resolver un problema mediante una serie de instrucciones definidas, ordenadas y finitas.
+Definición clara y simple
+Es una serie de pasos o instrucciones en forma ordenada para la solución de un problema.
+Los algoritmos tienen varias clasificaciones, una de ellas es:
+
+Cualitativos: Son aquellos en los que se describen los pasos de forma Narrada.
+Cuantitativos: Son aquellos en los que se utilizan cálculos numéricos para definir los pasos del proceso. 
+Características del algoritmo:
+Finito
+Claro
+Preciso 
+Definido 
+No debe ser Ambiguo
+Tener mínimo una salida
+
